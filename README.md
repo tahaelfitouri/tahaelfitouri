@@ -2,17 +2,13 @@
 
 **Computer Science Undergraduate · Systems Programming · AI Infrastructure**
 
-Tripoli, Libya
-
-[LinkedIn](https://www.linkedin.com/in/tahaelfitouri/) · [Email](mailto:tahaelfitouri@outlook.com) · [Repositories](https://github.com/tahaelfitouri?tab=repositories)
-
 ---
 
 ## About
 
 Computer Science undergraduate focused on systems programming, high-performance computing, and AI infrastructure.
 
-Interested in the intersection of software and hardware, particularly how memory, concurrency, and computational efficiency shape the design of modern computing systems.
+Interested in the intersection of software and hardware, particularly how memory, concurrency, and computational efficiency shape modern computing systems.
 
 Building a strong engineering foundation through academic study, independent learning, and hands-on development.
 

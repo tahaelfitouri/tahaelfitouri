@@ -8,72 +8,37 @@ Tripoli, Libya
 
 ---
 
-## Profile
+## About
 
-Computer Science undergraduate with a focus on systems programming, Linux, and performance-oriented software engineering.
+Computer Science undergraduate focused on systems programming, high-performance computing, and AI infrastructure.
 
-My technical interests lie at the intersection of software architecture, computer hardware, and AI infrastructure — particularly the design of efficient, reliable, and scalable computing systems.
+Interested in the intersection of software and hardware, particularly how memory, concurrency, and computational efficiency shape the design of modern computing systems.
 
-I approach software engineering through a combination of computer science fundamentals, independent study, and hands-on experimentation.
+Building a strong engineering foundation through academic study, independent learning, and hands-on development.
 
 ## Technical Background
 
 | Area | Technologies & Focus |
 |:---|:---|
 | **Programming** | C, C++, Python, SQL |
-| **Operating Systems** | Linux, Windows |
-| **Development** | Git, GitHub, Docker, Bash |
+| **Systems** | Linux, Memory Management, Concurrency |
+| **Development Tools** | Git, Docker, Bash |
 | **Computer Science** | Algorithms, Data Structures, Computer Architecture |
-| **Current Studies** | Modern C++, CUDA, Parallel Computing, ML Systems |
+| **Currently Exploring** | CUDA, GPU Computing, ML Systems |
 
-## Areas of Specialization
+## Engineering Interests
 
-**Systems Programming**
+**Systems Software** — Low-level programming, operating systems, memory efficiency, and performance-oriented design.
 
-Low-level software development, memory management, concurrency, operating systems, and performance-conscious design.
+**AI Infrastructure** — Model inference, serving systems, and the infrastructure supporting machine learning workloads.
 
-**AI Infrastructure & ML Systems**
+**High-Performance Computing** — Parallel programming, GPU architectures, profiling, and hardware-aware optimization.
 
-Model inference, serving infrastructure, computational efficiency, and the systems supporting machine learning workloads.
-
-**High-Performance Computing**
-
-Parallel algorithms, GPU programming, profiling, and hardware-aware optimization.
-
-## Engineering Work
-
-My development work emphasizes technical understanding, practical implementation, and iterative improvement.
-
-Current areas of exploration include:
-
-- Systems-level programming and software architecture
-- Performance analysis and resource efficiency
-- AI inference infrastructure and GPU computing
-- Development tooling and Linux-based workflows
-
-[View GitHub repositories](https://github.com/tahaelfitouri?tab=repositories)
-
-## Education & Professional Development
+## Education
 
 **Computer Science — Undergraduate Studies**
 
-Academic foundations in programming, algorithms, software engineering, and computer systems.
-
-**Harvard CS50x — Introduction to Computer Science**
-
-Completed.
-
-**Independent Technical Study**
-
-Modern C++, Linux systems, CUDA programming, and machine learning infrastructure.
-
-## Contact
-
-Open to technical discussions, open-source collaboration, and engineering-related conversations.
-
-**Email:** [tahaelfitouri@outlook.com](mailto:tahaelfitouri@outlook.com)
-
-**LinkedIn:** [linkedin.com/in/tahaelfitouri](https://www.linkedin.com/in/tahaelfitouri/)
+**Harvard CS50x — Introduction to Computer Science** · Completed
 
 ---
 

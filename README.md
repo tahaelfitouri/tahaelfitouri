@@ -1,56 +1,15 @@
-# Hi, I'm Taha 👋
+# Taha Elfitouri
 
-Computer Science student with a strong interest in Systems Programming, AI Systems, and High-Performance Computing.
+**Computer Science Student | Systems Programming | AI Infrastructure**
 
-I enjoy building efficient software, exploring Linux internals, working close to the hardware, and continuously improving my engineering skills through hands-on projects and practical experimentation.
+📍 Tripoli, Libya
 
-## 💻 Areas of Interest
+[GitHub](https://github.com/tahaelfitouri) · [LinkedIn](https://www.linkedin.com/in/tahaelfitouri/) · [Email](mailto:tahaelfitouri@outlook.com)
 
-- Systems Programming
-- Linux & Operating Systems
-- AI Systems
-- High-Performance Computing (HPC)
-- Algorithms & Data Structures
-- Performance Optimization
+---
 
-## 🛠️ Technologies
+## Professional Profile
 
-### Languages
+Computer Science student focused on systems programming, Linux, and high-performance computing, with a growing interest in AI infrastructure and machine learning systems.
 
-- C
-- C++
-- Python
-- SQL
-
-### Tools
-
-- Linux
-- Git & GitHub
-- Docker
-- Bash
-- Windows
-
-## 🚀 Currently Learning
-
-- Advanced C++ and Modern C++
-- CUDA Programming
-- Machine Learning Systems
-- Distributed Systems
-- Performance Engineering
-
-## 📌 Current Focus
-
-- Building practical, production-quality projects
-- Writing clean, efficient, and maintainable code
-- Strengthening computer science fundamentals
-- Exploring low-level software and system architecture
-
-## 📌 Featured Projects
-
-Projects will be added here as I continue building software in systems programming, AI systems, and high-performance computing.
-
-## 📫 Contact
-
-- Email: **tahaelfitouri@outlook.com**
-
-> *Always learning, always building.*
+Developing strong foundations in software engineering, computer architecture, and performance-oriented programming through academic study, independent research, and hands-on projects.
